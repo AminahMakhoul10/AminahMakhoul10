@@ -9,7 +9,10 @@
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.fslab.dev/AminahMakhoul1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminah-makhoul-a3331722a/)
 
-![Aminah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminahMakhoul10&show_icons=true&theme=synthwave)
+![Aminah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminahMakhoul10&show_icons=true&theme=radical)
+![Aminah's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AminahMakhoul10&layout=compact&theme=radical
+)
+
 
 ## Tecnologias que uso na Faculdade
 
