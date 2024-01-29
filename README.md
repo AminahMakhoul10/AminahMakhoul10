@@ -1,6 +1,6 @@
 ### Olá, eu sou Aminah Makhoul 🪐
 - Estudante de Análise e Desenvolvimento de Sistemas 👩‍💻
-- 19 anos 🦋
+- 20 anos 🦋
 - Vilhena-RO 📍
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sra_hastings?igshid=MzNlNGNkZWQ4Mg==)
